@@ -14,7 +14,6 @@ The <h1> element defines a large heading
 The <p> element defines a paragraph
 
 An HTML element is defined by a start tag, some content, and an end tag:
-
 <tagname> Content goes here... </tagname>
 
 
